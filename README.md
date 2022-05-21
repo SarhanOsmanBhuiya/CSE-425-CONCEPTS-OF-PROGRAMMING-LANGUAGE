@@ -1,0 +1,2 @@
+# CSE-425-CONCEPTS-OF-PROGRAMMING-LANGUAGE
+The objectives of this course are to  illustrate the programming paradigms, principles, fundamental concepts and techniques involved in design and implementation of major programming languages elaborate key programming concepts of major imperative, declarative, and object-oriented programming languages, their merits and limitations familiarize , concurrency control, and exception handling . demonstrate key concepts of functional and logic programming languages, their purpose and applications
